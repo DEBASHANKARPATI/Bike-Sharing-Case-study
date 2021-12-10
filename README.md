@@ -1,5 +1,6 @@
-# Project Name
-> Outline a brief description of your project.
+# Bike sharing case study assignment
+> This project is about building a machine learning model using linear regression algorithm using a recorded transactional data of a bike sharing company called boom bikes .
+> Where we basically need to predict the demand of the clients using factors mentioned in the data set.
 
 
 ## Table of Contents
